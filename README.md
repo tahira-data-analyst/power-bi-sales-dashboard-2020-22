@@ -3,7 +3,7 @@
 An interactive and professional sales analysis dashboard built in Power BI to track business performance from 2020 to 2022.
 
 ### 📸 Dashboard Preview
-[Sales Dashboard](powerbi_dashboard.png)
+![Sales Dashboard](powerbi_dashboard.png)
 
 ### 📂 Files in this Repository
 1.  **Complete_Techno_Sales_Data-2.xlsx** - Raw dataset used for analysis
